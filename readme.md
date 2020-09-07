@@ -31,15 +31,3 @@ Link to the Application : [Mind Bot](https://mind-bot-algo-trading.herokuapp.com
 
 4. On the `Control Charts Dashboard` tab, select the Crypto & Model and it will generate the Buy/Sell Trading Signals
 
-#### Usage
----
-
-
-
-
- 
-   
-   
-    
-    
-
